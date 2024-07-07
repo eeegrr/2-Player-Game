@@ -42,7 +42,7 @@ Represents a player in the game, requiring the implementation of the choose_turn
 'MinMax' and 'AlphaBeta' Classes
 Inherit from Player and implement AI decision-making using respective algorithms.
 
-###User Interface
+### User Interface
 
 #### 'GameGUI' Class
 Uses Tkinter for the graphical user interface.
